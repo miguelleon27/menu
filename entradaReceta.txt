@@ -13,8 +13,12 @@ Salsa de tomate para pizza
 Preparacion
 
 1. precalentar el horno a 220 grados centigrados. Engrasar la superficie con aceite o mantequilla
+<<<<<<< HEAD
 2. mezcla la harina, polvo para hornear, la sal y la mantequilla
 3. Incorporar la mitad del queso y amasar hasta lograr un consistencia suave en la masa
 4. Enharina tu mesa de trabajo y amasa suavemente, extiende con un rodilla hasta que tengas una masa de 2 centímetros de ancho, luego córtala con un cortador de galletas en forma de flor.
 5. Unta la salsa sobre las flores de masa y espolvorea el resto de las hierbas y el queso, así como cualquier otro ingrediente de tu elección.
 6. Hornea de 15 a 20 minutos o hasta que la masa esté ligeramente dorada y el queso se haya derretido.
+=======
+2. mecla la harina, polvo para hornear
+>>>>>>> f446e3ce4829dfe687a5723588363566bb781822
