@@ -1,28 +1,41 @@
-Menu
+﻿•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•
+								ENDAVA MENU
+•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.••*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•
 
-Entradas:
+					   Bienvenidos al restautante de Endava aqui encontraras 
+					       los mejores platos para deleitar tu paladar
 
-Mini Pizza con Mozzarella 
+_,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,
 
-Deliciosas pizzas perfectas como entrada para abrir el apetito para el plato fuerte, puede añadir cuaquier ingrediente como jamon, tocineta o salami.
+	Entradas:
+   \  :  /    
+`. __/ \__ .'  Mini Pizza con Mozzarella 
+_ _\     /_ _ 
+   /_   _\     Deliciosas pizzas perfectas como entrada para abrir el apetito para el plato fuerte, puede añadir    
+ .'  \ /  `.   cualquier ingrediente como jamon, tocineta o salami.
+   /  |  \    
+	       $15.000
 
-$15.000
+	Platos Fuertes:
+   \  :  /    
+`. __/ \__ .'  Viuda de Bocachico
+_ _\     /_ _ 
+   /_   _\     Deliciosa preparacion de Bocachico, acompañada de yuca y platano, servida en  
+ .'  \ /  `.   una hoja de platano.
+   /  |  \    
+	       $45.000
 
-Platos Fuertes:
+	Postres:
+   \  :  /    
+`. __/ \__ .'  Torta Helada de limon 
+_ _\     /_ _ 
+   /_   _\     Postre con una textura cremosa y fría como el helado.
+ .'  \ /  `.   lo frío y lo cítrico del limón y crocante de la galleta, dotan de textura y sabor a esta tarta.
+   /  |  \    
+	       $10.000
 
-Viuda de Bocachico
+•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.••*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•
 
-Deliciosa preparacion de Bocachico, acompañada de yuca y platano, servida en
-una hoja de platano.
+					Que tenga un feliz día y que disfrute de nuestros platillos.
 
-$45.000
-
-Postres:
-
-Torta Helada de limon 
-
-postre con una textura cremosa y fría como el helado.
-lo frío y lo cítrico del limón y crocante de la galleta, dotan de textura y sabor a esta tarta.
-
-$10.000
-
+•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.••*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•
